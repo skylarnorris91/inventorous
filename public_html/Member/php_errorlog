@@ -1,0 +1,37 @@
+[13-Oct-2020 09:24:23 CST6CDT] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Member/AllMembers.php on line 76
+[27-Oct-2020 17:37:50 CST6CDT] PHP Fatal error:  require(): Failed opening required 'dataAccess.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php on line 3
+[12-Nov-2020 08:30:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadTableData() in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php on line 47
+[12-Nov-2020 08:35:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadTableData() in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php on line 47
+[13-Nov-2020 11:12:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadStationData() in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php on line 34
+[13-Nov-2020 12:04:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php:91
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php(85): addMemRow(Array)
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php(46): loadTableData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 91
+[13-Nov-2020 12:40:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadMemberData() in /home/customer/www/skylarn.sg-host.com/public_html/Member/userMgnt.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Member/userMgnt.php on line 34
+[16-Nov-2020 08:34:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadMemberData() in /home/customer/www/skylarn.sg-host.com/public_html/Member/userMgnt.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Member/userMgnt.php on line 34
+[16-Nov-2020 10:05:19 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 184
+[16-Nov-2020 10:05:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 184
+[16-Nov-2020 10:05:34 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 184
+[16-Nov-2020 10:05:38 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 184
+[16-Nov-2020 10:05:40 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 184
+[16-Nov-2020 10:05:44 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Member/dataAccess.php on line 184
+[16-Nov-2020 13:29:39 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php on line 9
+[16-Nov-2020 13:29:43 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/skylarn.sg-host.com/public_html/Member/memberMgnt.php on line 9
+[17-Nov-2020 08:54:28 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/skylarn.sg-host.com/public_html/Member/userMgnt.php on line 9

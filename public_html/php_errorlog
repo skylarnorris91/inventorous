@@ -1,0 +1,183 @@
+[27-Oct-2020 15:05:24 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 39
+[27-Oct-2020 15:05:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadStationTabs() in /home/customer/www/skylarn.sg-host.com/public_html/user.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/user.php on line 28
+[27-Oct-2020 15:07:07 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 39
+[27-Oct-2020 15:07:08 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 39
+[27-Oct-2020 15:14:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:4
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(4): userData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 4
+[27-Oct-2020 16:31:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 249
+[27-Oct-2020 16:50:49 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/user.php on line 25
+[27-Oct-2020 18:09:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function prepare() in /home/customer/www/skylarn.sg-host.com/public_html/register.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 11
+[27-Oct-2020 18:11:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function prepare() in /home/customer/www/skylarn.sg-host.com/public_html/register.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 11
+[27-Oct-2020 18:13:02 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/customer/www/skylarn.sg-host.com/public_html/register.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 28
+[03-Nov-2020 13:20:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'style' (T_STRING), expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 29
+[03-Nov-2020 13:26:45 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 162
+[03-Nov-2020 13:48:36 CST6CDT] PHP Fatal error:  Cannot redeclare userData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/genericDataAccess.php:44) in /home/customer/www/skylarn.sg-host.com/public_html/genericDataAccess.php on line 44
+[03-Nov-2020 13:49:32 CST6CDT] PHP Fatal error:  require(): Failed opening required '../Station/dataAccess.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/user.php on line 5
+[03-Nov-2020 14:21:48 CST6CDT] PHP Parse error:  syntax error, unexpected '$usRecords' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 18
+[03-Nov-2020 14:22:27 CST6CDT] PHP Parse error:  syntax error, unexpected '$usRecords' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 18
+[03-Nov-2020 14:36:23 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php:18
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(8): addStation('test Create Sta...', 'testting addres...', '9199199999')
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 18
+[03-Nov-2020 14:38:42 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php:19
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(8): addStation('test Create Sta...', 'testting addres...', '9199199999')
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 19
+[03-Nov-2020 14:48:43 CST6CDT] PHP Parse error:  syntax error, unexpected '$userID' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 20
+[03-Nov-2020 14:52:04 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 25
+[03-Nov-2020 14:52:07 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 25
+[03-Nov-2020 14:53:28 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 25
+[03-Nov-2020 15:05:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$userID' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 20
+[03-Nov-2020 15:27:39 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 77
+[03-Nov-2020 15:28:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 77
+[03-Nov-2020 15:29:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function registerUser() in /home/customer/www/skylarn.sg-host.com/public_html/register.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 8
+[03-Nov-2020 15:31:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function registerUser() in /home/customer/www/skylarn.sg-host.com/public_html/register.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 8
+[03-Nov-2020 15:32:15 CST6CDT] PHP Fatal error:  require(): Failed opening required 'registerDataAccessphp' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/register.php on line 3
+[03-Nov-2020 15:33:04 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/customer/www/skylarn.sg-host.com/public_html/registerDataAccess.php:50
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/register.php(9): registerUser('test@firelady.c...', 'bonk', 'test', 'user')
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/registerDataAccess.php on line 50
+[03-Nov-2020 15:37:12 CST6CDT] PHP Parse error:  syntax error, unexpected '$miResult' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/registerDataAccess.php on line 49
+[03-Nov-2020 15:37:38 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/customer/www/skylarn.sg-host.com/public_html/registerDataAccess.php:52
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/register.php(8): registerUser('test@firelady.c...', 'bonk', 'test', 'user')
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/registerDataAccess.php on line 52
+[10-Nov-2020 14:09:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'tab' (T_STRING), expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 52
+[10-Nov-2020 14:10:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadstationTabs() in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:49
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(39): loadDeptTabData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 49
+[10-Nov-2020 14:16:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadstationTabs() in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:49
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(39): loadDeptTabData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 49
+[10-Nov-2020 14:17:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadstationTabs() in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:49
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(39): loadDeptTabData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 49
+[10-Nov-2020 14:18:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadStationTabs() in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:49
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(39): loadDeptTabData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 49
+[10-Nov-2020 14:18:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadStationTabs() in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:49
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(39): loadDeptTabData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 49
+[10-Nov-2020 14:19:47 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 205
+[10-Nov-2020 14:41:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 77
+[10-Nov-2020 14:41:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 77
+[10-Nov-2020 14:43:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:12
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(36): loadDeptTabs()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 12
+[10-Nov-2020 14:43:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php:12
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/user.php(36): loadDeptTabs()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 12
+[10-Nov-2020 15:55:49 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 97
+[10-Nov-2020 15:58:26 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 131
+[11-Nov-2020 15:44:42 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 89
+[16-Nov-2020 12:07:20 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 129
+[16-Nov-2020 12:07:31 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 129
+[16-Nov-2020 22:15:36 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 88
+[16-Nov-2020 22:18:46 CST6CDT] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ',' or ')' in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 60
+[16-Nov-2020 22:38:07 CST6CDT] PHP Fatal error:  require(): Failed opening required '../genericDataAccess.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/index.php on line 3
+[16-Nov-2020 22:38:39 CST6CDT] PHP Fatal error:  require(): Failed opening required '../database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/dataAccess.php on line 285
+[17-Nov-2020 08:53:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadUserData() in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php on line 57
+[17-Nov-2020 08:57:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadUserData() in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php on line 71
+[17-Nov-2020 08:59:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadUserData() in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php on line 71
+[17-Nov-2020 08:59:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadUserData() in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php on line 71
+[17-Nov-2020 12:39:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadStationTable() in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventory.php on line 56
+[17-Nov-2020 13:11:26 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 33
+[17-Nov-2020 13:11:41 CST6CDT] PHP Parse error:  syntax error, unexpected '$Quantity' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 44
+[17-Nov-2020 13:12:19 CST6CDT] PHP Parse error:  syntax error, unexpected '$quantity' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 44
+[17-Nov-2020 13:12:45 CST6CDT] PHP Fatal error:  require(): Failed opening required '../database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 23
+[17-Nov-2020 13:13:44 CST6CDT] PHP Fatal error:  require(): Failed opening required '../database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 23
+[17-Nov-2020 13:26:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:69
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/inventory.php(60): loadVehicleTable()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 69
+[17-Nov-2020 13:26:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:69
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/inventory.php(60): loadVehicleTable()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 69
+[17-Nov-2020 13:28:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:68
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/inventory.php(60): loadVehicleTable()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 68
+[17-Nov-2020 13:29:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:92
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php(81): addVhicleTable(NULL, true)
+#1 /home/customer/www/skylarn.sg-host.com/public_html/inventory.php(60): loadVehicleTable()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 92
+[17-Nov-2020 13:33:47 CST6CDT] PHP Fatal error:  Cannot redeclare addStationTableRow() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:35) in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 120
+[17-Nov-2020 13:34:34 CST6CDT] PHP Fatal error:  Cannot redeclare loadVehicleTable() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:63) in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 141
+[17-Nov-2020 13:35:00 CST6CDT] PHP Fatal error:  Cannot redeclare loadVehicleTable() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:63) in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 141
+[17-Nov-2020 13:37:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function addStations() in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:16
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/inventory.php(56): loadStationTable()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 16
+[17-Nov-2020 13:37:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function addMembers() in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php:137
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/inventory.php(64): loadMemberTable()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/inventoryDataAccess.php on line 137
+[24-Nov-2020 21:22:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117
+[24-Nov-2020 21:23:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117
+[24-Nov-2020 21:23:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117
+[24-Nov-2020 21:23:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117
+[24-Nov-2020 21:23:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117
+[24-Nov-2020 21:25:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117
+[24-Nov-2020 21:25:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Station/dataAccess.php on line 117

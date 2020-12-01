@@ -1,0 +1,196 @@
+[24-Nov-2020 19:39:35 UTC] PHP Fatal error:  require(): Failed opening required 'dataAccess.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php on line 4
+[24-Nov-2020 19:40:01 UTC] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/dataAccess.php on line 5
+[24-Nov-2020 19:40:19 UTC] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/dataAccess.php on line 5
+[24-Nov-2020 19:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadAssignData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:60
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 60
+[24-Nov-2020 19:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loafModalData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php on line 57
+[24-Nov-2020 19:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loafModalData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php on line 57
+[24-Nov-2020 19:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loafModalData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php on line 57
+[24-Nov-2020 19:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:96
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(80): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 96
+[24-Nov-2020 19:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:55:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loafModalData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php on line 57
+[24-Nov-2020 19:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 19:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loafModalData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php on line 57
+[24-Nov-2020 20:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/itemDataAccess.php:58
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/item.php(57): loadModalData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/itemDataAccess.php on line 58
+[24-Nov-2020 20:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:18:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:19:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/itemDataAccess.php on line 11
+[24-Nov-2020 20:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:97
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php(81): loadAssignData()
+#1 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#2 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 97
+[24-Nov-2020 20:31:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/itemDataAccess.php on line 116
+[24-Nov-2020 20:33:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadAssignData() in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php:81
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventory.php(62): loadModalData()
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Inventory/inventoryDataAccess.php on line 81

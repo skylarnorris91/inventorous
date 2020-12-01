@@ -1,0 +1,2 @@
+[13-Oct-2020 09:32:58 CST6CDT] PHP Fatal error:  require(): Failed opening required '../database.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Truck/1202/1202All.php on line 81
+[13-Oct-2020 09:33:27 CST6CDT] PHP Fatal error:  require(): Failed opening required '../database.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Truck/1202/1202All.php on line 81

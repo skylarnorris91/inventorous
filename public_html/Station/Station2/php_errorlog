@@ -1,0 +1,1 @@
+[13-Oct-2020 14:57:39 CST6CDT] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Station/Station2/Station2All.php on line 81

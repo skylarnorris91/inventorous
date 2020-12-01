@@ -1,0 +1,70 @@
+[23-Oct-2020 21:51:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadvehicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleInventory.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleInventory.php on line 38
+[23-Oct-2020 21:53:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadvehicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleInventory.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleInventory.php on line 38
+[23-Oct-2020 21:55:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadVehicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleInventory.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleInventory.php on line 38
+[23-Oct-2020 21:57:23 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 5
+[23-Oct-2020 21:58:22 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 10
+[23-Oct-2020 21:59:02 CST6CDT] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/usr/local/php70/pear') in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 3
+[27-Oct-2020 14:20:50 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 16
+[27-Oct-2020 14:21:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 17
+[27-Oct-2020 14:22:19 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 18
+[27-Oct-2020 14:22:57 CST6CDT] PHP Fatal error:  Cannot redeclare loadVehicleData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:2) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 2
+[27-Oct-2020 14:25:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadVehicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 49
+[27-Oct-2020 14:26:31 CST6CDT] PHP Fatal error:  Cannot redeclare loadUTVData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:79) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 79
+[27-Oct-2020 14:27:16 CST6CDT] PHP Fatal error:  Cannot redeclare loadUTVData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:79) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 79
+[27-Oct-2020 14:28:45 CST6CDT] PHP Fatal error:  Cannot redeclare loadUTVData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:79) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 79
+[27-Oct-2020 14:29:48 CST6CDT] PHP Fatal error:  Cannot redeclare loadUTVData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:79) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 79
+[27-Oct-2020 14:29:57 CST6CDT] PHP Fatal error:  Cannot redeclare loadUTVData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:79) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 79
+[27-Oct-2020 14:33:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 18
+[27-Oct-2020 14:33:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 18
+[27-Oct-2020 14:33:39 CST6CDT] PHP Fatal error:  Cannot redeclare loadUTVData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:83) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 83
+[27-Oct-2020 14:34:12 CST6CDT] PHP Fatal error:  Cannot redeclare loadLadderData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:63) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 63
+[27-Oct-2020 14:34:46 CST6CDT] PHP Fatal error:  Cannot redeclare loadStructureData() (previously declared in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:3) in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 3
+[27-Oct-2020 14:39:30 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 43
+[27-Oct-2020 14:42:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function phploadvechicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 49
+[27-Oct-2020 14:42:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadvechicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 49
+[27-Oct-2020 14:43:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadVechicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 49
+[27-Oct-2020 14:44:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadVechicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 49
+[27-Oct-2020 14:44:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function loadVechicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php on line 49
+[27-Oct-2020 14:48:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 11
+[27-Oct-2020 14:48:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 11
+[27-Oct-2020 14:49:13 CST6CDT] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 8
+[27-Oct-2020 14:53:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php:8
+Stack trace:
+#0 /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/VehicleSelection.php(49): loadVehicleData(1)
+#1 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/dataAccess.php on line 8
+[16-Nov-2020 09:25:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function updateStationData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/vehicleMgnt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/vehicleMgnt.php on line 7
+[16-Nov-2020 09:25:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function updateVehicleData() in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/vehicleMgnt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/skylarn.sg-host.com/public_html/Vehicle/vehicleMgnt.php on line 7
